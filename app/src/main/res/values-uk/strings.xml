@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="deposit">Введіть депозит у ЮСД:</string>
+    <string name="price">Введіть ціну активу у ЮСД:</string>
+    <string name="percent">Введіть процент макс втрат:</string>
+    <string name="ratio">Введіть співвідношення Т/П до С/Л</string>
+    <string name="leverage">Введіть плече угоди:</string>
+    <string name="stop_loss">Стоп лосс: %.3f</string>
+    <string name="take_profit">Тейк профіт: %.3f</string>
+    <string name="risk">Риск в ЮСД: %.3f</string>
+</resources>

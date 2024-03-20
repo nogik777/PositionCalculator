@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Position Calculator</string>
+    <string name="price">Enter the price of the asset in USD:</string>
+    <string name="percent">Enter the percentage of max losses:</string>
+    <string name="ratio">Enter the ratio T/P to S/L:</string>
+    <string name="leverage">Enter the leverage:</string>
+    <string name="stop_loss">Stop loss: %.3f</string>
+    <string name="take_profit">Take profit: %.3f</string>
+    <string name="risk">Risk in USD: %.3f</string>
+    <string name="roi" translatable="false">ROI: %.2f %%</string>
+
+    <string name="result" translatable="false">Result</string>
+    <string name="deposit">Enter a deposit in USD:</string>
+</resources>
